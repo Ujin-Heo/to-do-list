@@ -1,2 +1,8 @@
 <LOGIN>
 https://github.com/nomadcoders/javascript-for-beginners/find/fd95271ebe73b95bda5d3dc1497bb2126a9bf62f
+
+<한 컴퓨터에서 다른 깃허브 계정으로 commit하기>
+1. github desktop 상단 메뉴 - Repository - Repository Settings - -좌측 Remote 탭 - Primary Remote Repository 아래 링크에서
+github.com/ 뒤를 계정 이름으로 바꾼 후 Repository 생성
+
+2. github 웹사이트에서 새 Repository 생성 후 파일 업로드 -> 초록색 Code 버튼 -> Open with GitHub Desktop 클릭 (이 방법이 확실)
